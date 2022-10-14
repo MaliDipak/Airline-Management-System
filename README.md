@@ -1,4 +1,4 @@
-# <a href="https://restorent-management.azurewebsites.net">Airline-Management-System</a>
+# <a href="[https://restorent-management.azurewebsites.net](https://jolly-meadow-04e739910.2.azurestaticapps.net)">Airline-Management-System</a>
 
 This is 1 Page Front End website design
 
